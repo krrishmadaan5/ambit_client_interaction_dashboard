@@ -22,8 +22,7 @@ This repository showcases my **data analytics skills** as part of the **Ambit Da
 | File | Description |
 |------|-------------|
 | `Ambit_Data_Analysis.ipynb` | Python notebook containing all data cleaning and analysis steps |
-| `Ambit_Data_Dashboard.pbix` | Power BI report with interactive dashboard visuals |
-| `README.md` | This file, with all key information and links |
+| `Ambit_Dashboard.pbix` | Power BI report with interactive dashboard visuals |
 
 ---
 
@@ -39,8 +38,8 @@ This repository showcases my **data analytics skills** as part of the **Ambit Da
 
 ## 📄 Resume & Portfolio
 
-📌 [View My Resume (PDF)](https://your-resume-link.com)  
-🌐 [Visit My Portfolio](https://your-portfolio-link.com)
+📌 [View My Resume (PDF)](https://lnkd.in/gCS2YvAE)  
+🌐 [Visit My Portfolio](https://lnkd.in/gAfijW74)
 
 ---
 
@@ -56,7 +55,7 @@ This repository showcases my **data analytics skills** as part of the **Ambit Da
 
 ## 💬 Let's Connect
 
-Feel free to reach out via [LinkedIn](https://your-linkedin-link.com) or email if you’d like to discuss this project further!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/krrish-madaan-264968231/) or email (madaank023@gmail.com).
 
 ---
 
