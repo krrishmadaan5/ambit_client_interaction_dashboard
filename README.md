@@ -21,7 +21,7 @@ This repository showcases my **data analytics skills** as part of the **Ambit Da
 
 | File | Description |
 |------|-------------|
-| `Ambit_Data_Analysis.ipynb` | Python notebook containing all data cleaning and analysis steps |
+| `ambit_data_analysis_assignment.ipynb` | Python notebook containing all data cleaning and analysis steps |
 | `Ambit_Dashboard.pbix` | Power BI report with interactive dashboard visuals |
 
 ---
